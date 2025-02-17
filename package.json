@@ -1,0 +1,16 @@
+{
+  "name": "DictumGPT",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "dompurify": "^3.2.4",
+    "next": "latest",
+    "openai": "^4.85.1",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
